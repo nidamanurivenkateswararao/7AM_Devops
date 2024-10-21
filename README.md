@@ -1,2 +1,2 @@
 # 7AM_Devops
-repo for devops practisie
+repo for devops practisie!
